@@ -1,0 +1,23 @@
+name: zag sports
+favicon: null
+layout_spectrum: 0.3286522855050862
+typography_spectrum: 0.3331479609478265
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.35725610237568617
+  lightness: 0.9699044560547918
+  saturation: 0.3239828576333821
+  rhythmicContrast: 0.4508438871707767
+purpose: []
